@@ -12,8 +12,8 @@ All of the instructions regarding the game is provided in game.
 
 
 Please be noted, database login is Username as "root" and password as "".
-
-
-
 *Without quotes.
+
+
+
 *Want to make any changes to database, don't forget to do that in the games source code.
