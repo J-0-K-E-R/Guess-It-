@@ -1,4 +1,4 @@
-# Guess-It-
+# Guess It!
 "Guess It!" is a game created in JAVA. It's a simple game that gives you a set of categories to play in.
 It a guess game related to Movies, Actors, Anime and Music.
 It gives player a part of picture on display. With time more of picture is loaded and at last full picture is shown.
